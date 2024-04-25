@@ -11,7 +11,7 @@ export default defineConfig({
         index: resolve(__dirname, "index.html"),
         attributions_en: resolve(__dirname, "en/attributions.html"),
         attributions_es: resolve(__dirname, "es/attributions.html"),
-        penal_colony: resolve(__dirname, "maps/penal-colony.html"),
+        arizona_forest: resolve(__dirname, "maps/arizona-forest.html"),
       },
     },
   },
