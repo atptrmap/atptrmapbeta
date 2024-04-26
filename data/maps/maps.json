@@ -12,7 +12,7 @@
     "cardImgSrc": "cardImg.png",
     "mapImgSrc": "mapImg.svg",
     "resolution": [6826.66675, 6826.66675],
-    "padding": "1900px 0px 0px 2020px",
+    "padding": "1900px 1900px 1900px 2020px",
     "zoom": 1,
     "minZoom": 1,
     "maxZoom": 7,
