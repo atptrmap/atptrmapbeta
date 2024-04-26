@@ -6,46 +6,54 @@
       "en": "Loot",
       "es": "Botín"
     },
-    "color": "#3e92d0",
+    "color": "#006400",
     "children": [
       {
-        "id": "ammo",
-        "iconName": "ammo.svg",
+        "id": "Chest",
+        "iconName": "chest.svg",
         "name": {
-          "en": "Ammo",
-          "es": "Munición"
+          "en": "Event Chest",
+          "es": "Event Chest"
         }
       },
       {
-        "id": "medic_kit",
-        "iconName": "medic_kit.svg",
+        "id": "diving helmet",
+        "iconName": "diving helmet.svg",
         "name": {
-          "en": "Medic kit",
-          "es": "Botiquín"
+          "en": "diving helmet",
+          "es": "diving helmet"
         }
       },
       {
-        "id": "container",
-        "iconName": "container.svg",
+        "id": "Cash Register",
+        "iconName": "Cash Register.svg",
         "name": {
-          "en": "Container",
-          "es": "Contenedor"
+          "en": "Cash Register",
+          "es": "Cash Register"
         }
       },
       {
-        "id": "purse",
-        "iconName": "purse.svg",
+        "id": "loot bag",
+        "iconName": "loot bag.svg",
         "name": {
-          "en": "Purse",
-          "es": "Monedero"
+          "en": "Loot Bag",
+          "es": "Loot Bag"
         }
       },
       {
-        "id": "dead_body",
-        "iconName": "dead_body.svg",
+        "id": "Event Chest",
+        "iconName": "event chest.svg",
         "name": {
-          "en": "Dead body",
-          "es": "Cadáver"
+          "en": "Chest",
+          "es": "Chest"
+        }
+      },
+      {
+        "id": "backpack",
+        "iconName": "backpack.svg",
+        "name": {
+          "en": "Backpack",
+          "es": "Backpack"
         }
       },
       {
@@ -97,41 +105,84 @@
       "en": "Extraction",
       "es": "Extracción"
     },
-    "color": "#facd45",
+    "color": "#3e92d0",
     "children": [
       {
-        "id": "escape_pod",
-        "iconName": "escape_pod.svg",
+        "id": "paid",
+        "iconName": "extractpaid.svg",
         "name": {
-          "en": "Escape pod",
+          "en": "Paid Exit",
           "es": "Cápsula de escape"
         }
       },
       {
-        "id": "airlock",
-        "iconName": "airlock.svg",
+        "id": "free",
+        "iconName": "extract.svg",
         "name": {
-          "en": "Air lock",
+          "en": "Free Exit",
           "es": "Exclusa de aire"
         }
       }
     ]
   },
   {
-    "id": "mission",
-    "iconName": "mission.svg",
+    "id": "animal",
+    "iconName": "animal.svg",
     "name": {
-      "en": "Mission",
-      "es": "Misión"
+      "en": "Hunting",
+      "es": "Hunting"
     },
-    "color": "#5db670",
+    "color": "#3e92d0",
     "children": [
       {
-        "id": "zero_to_hero",
-        "iconName": "zero_to_hero.svg",
+        "id": "deer",
+        "iconName": "deer.svg",
         "name": {
-          "en": "Zero to hero",
-          "es": "De cero a héroe"
+          "en": "Deer",
+          "es": ""
+        }
+      },
+      {
+        "id": "wolf",
+        "iconName": "wolf.svg",
+        "name": {
+          "en": "Wolf",
+          "es": ""
+        }
+      },
+      {
+        "id": "boar",
+        "iconName": "boar.svg",
+        "name": {
+          "en": "Boar",
+          "es": ""
+        }
+      }
+    ]
+  },
+  {
+    "id": "poi",
+    "iconName": "POI.svg",
+    "name": {
+      "en": "Point of Interest",
+      "es": "Point of Interest"
+    },
+    "color": "#FFA500",
+    "children": [
+      {
+        "id": "camp",
+        "iconName": "location.svg",
+        "name": {
+          "en": "Locations",
+          "es": ""
+        }
+      },
+      {
+        "id": "wagon",
+        "iconName": "wagon.svg",
+        "name": {
+          "en": "Wagon",
+          "es": ""
         }
       },
       {
@@ -157,7 +208,7 @@
         "id": "enemy_spawn",
         "iconName": "enemy_spawn.svg",
         "name": {
-          "en": "Enemy spawn",
+          "en": "Boss",
           "es": "Aparición de enemigos"
         }
       },
@@ -171,4 +222,5 @@
       }
     ]
   }
+  
 ]
