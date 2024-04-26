@@ -3,7 +3,7 @@ import { defineConfig } from "vite";
 import vitePluginFaviconsInject from "vite-plugin-favicons-inject";
 
 export default defineConfig({
-  base: "/atptrmap/",
+  base: "/atptrmapbeta/",
   build: {
     outDir: "build",
     rollupOptions: {
