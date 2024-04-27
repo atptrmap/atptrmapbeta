@@ -17,11 +17,11 @@
         }
       },
       {
-        "id": "diving helmet",
-        "iconName": "diving helmet.svg",
+        "id": "helmet",
+        "iconName": "helmet.svg",
         "name": {
-          "en": "diving helmet",
-          "es": "diving helmet"
+          "en": "Diving Helmet",
+          "es": "Diving Helmet"
         }
       },
       {
