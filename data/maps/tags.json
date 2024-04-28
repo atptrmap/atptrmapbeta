@@ -162,7 +162,7 @@
   },
   {
     "id": "poi",
-    "iconName": "POI.svg",
+    "iconName": "poi.svg",
     "name": {
       "en": "Point of Interest",
       "es": "Point of Interest"
