@@ -244,7 +244,7 @@
       "en": "Conductor",
       "es": "Extracción en Conductor"
     },
-    "imgSrc": "Conductor.png",
+    "imgSrc": "conductor.png",
     "iconName": "extractpaid.svg",
     "description": {
       "en": "Timer: 10 seconds</br>Cost: 10 Cents</br>Enemy: None",
@@ -289,7 +289,7 @@
       "en": "Southern Ravine",
       "es": "Extracción en Southern Ravine"
     },
-    "imgSrc": "Southern-ravine.png",
+    "imgSrc": "southern-ravine.png",
     "iconName": "extract.svg",
     "description": {
       "en": "Timer: 20 seconds</br>Cost: Free</br>Enemy: None",
