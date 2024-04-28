@@ -9,10 +9,10 @@ export default defineConfig({
     rollupOptions: {
       input: {
         index: resolve(__dirname, "index.html"),
-        attributions_en: resolve(__dirname, "en/attributions.html"),
-        attributions_es: resolve(__dirname, "es/attributions.html"),
-        attributions_uk: resolve(__dirname, "uk/attributions.html"),
-        arizona_forest: resolve(__dirname, "data/maps/arizona-forest.html"),
+        attributions_en: resolve(__dirname, "attributions/en.html"),
+        attributions_es: resolve(__dirname, "attributions/es.html"),
+        attributions_uk: resolve(__dirname, "attributions/uk.html"),
+        arizona_forest: resolve(__dirname, "maps/arizona-forest.html"),
       },
     },
   },

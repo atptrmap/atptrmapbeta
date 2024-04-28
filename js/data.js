@@ -102,7 +102,7 @@ class AttributionsData {
   }
   loadAttributions() {
     const attributionsInfo = document.getElementById("attributions-info");
-    fetch(`${import.meta.env.BASE_URL}/${this.lang}/attributions.html`)
+    fetch(`${import.meta.env.BASE_URL}/attributions/${this.lang}.html`)
       .then((response) => response.text())
       .then((html) => {
         attributionsInfo.innerHTML = html;
