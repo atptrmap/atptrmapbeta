@@ -12,7 +12,7 @@ export default defineConfig({
         attributions_en: resolve(__dirname, "en/attributions.html"),
         attributions_es: resolve(__dirname, "es/attributions.html"),
         attributions_uk: resolve(__dirname, "uk/attributions.html"),
-        arizona_forest: resolve(__dirname, "maps/arizona-forest.html"),
+        arizona_forest: resolve(__dirname, "data/maps/arizona-forest.html"),
       },
     },
   },
