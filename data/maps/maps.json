@@ -3,11 +3,13 @@
     "id": "arizona-forest",
     "name": {
       "en": "Arizona Forest",
-      "es": "Bosque Arizona"
+      "es": "Bosque Arizona",
+      "uk": "Ліс Арізони"
     },
     "alias": {
       "en": "Arizona",
-      "es": "Arizona"
+      "es": "Arizona",
+      "uk": "Ліс Арізони"
     },
     "cardImgSrc": "cardImg.png",
     "mapImgSrc": "mapImg.svg",
@@ -17,8 +19,9 @@
     "minZoom": 1,
     "maxZoom": 7,
     "description": {
-      "en": "Description.",
-      "es": "Descripción."
+      "en": "",
+      "es": "",
+      "uk": ""
     }
   }
 ]

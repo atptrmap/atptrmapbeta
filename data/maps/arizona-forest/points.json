@@ -8,7 +8,8 @@
     "iconName": "extract.svg",
     "description": {
       "en": "Timer: 60 seconds</br>Cost: Free</br>Enemy: None",
-      "es": "Temporizador: 60 segundos</br>Coste: Gratis</br>Enemigo: Ninguno"
+      "es": "Temporizador: 60 segundos</br>Coste: Gratis</br>Enemigo: Ninguno",
+      "uk": "Таймер: 60 секунд</br>Вартість: безкоштовно</br>Ворог: немає"
     },
     "category": "extraction",
     "tag": "free",
@@ -17,7 +18,8 @@
   {
     "name": {
       "en": "Bonfire",
-      "es": "Extracción en Bonfire"
+      "es": "Hoguera",
+      "uk": "багаття"
     },
     "imgSrc": "bonfire.png",
     "iconName": "extract.svg",
@@ -27,132 +29,149 @@
     },
     "category": "extraction",
     "tag": "free",
-    "position": [52.5625,37.8125]
+    "position": [52.5625, 37.8125]
   },
   {
     "name": {
       "en": "Horseman",
-      "es": "Extracción en Bonfire"
+      "es": "Jinete",
+      "uk": "вершник"
     },
     "imgSrc": "horseman.png",
     "iconName": "extractpaid.svg",
     "description": {
       "en": "Timer: 10 seconds</br>Cost: 10 Cents</br>Enemy: None",
-      "es": "Temporizador: 10 segundos</br>Coste: Gratis</br>Enemigo: Ninguno"
+      "es": "Temporizador: 10 segundos</br>Coste: Gratis</br>Enemigo: Ninguno",
+      "uk": "Таймер: 10 секунд</br>Вартість: безкоштовно</br>Ворог: немає"
     },
     "category": "extraction",
     "tag": "paid",
-    "position": [-21.70708717713272,52.03466375465125]
+    "position": [-21.70708717713272, 52.03466375465125]
   },
   {
     "name": {
       "en": "Unfinished Cabin",
-      "es": "Extracción en Unfinished Cabin"
+      "es": "Cabaña sin terminar",
+      "uk": "Недобудована кабіна"
     },
     "imgSrc": "unfinished-log.png",
     "iconName": "extract.svg",
     "description": {
       "en": "Timer: 60 seconds</br>Cost: Free</br>Enemy: 2 patrols 3 man",
-      "es": "Temporizador: 10 segundos</br>Coste: Gratis</br>Enemigo: Ninguno"
+      "es": "Temporizador: 10 segundos</br>Coste: Gratis</br>Enemigo: Ninguno",
+      "uk": "Таймер: 10 секунд</br>Вартість: безкоштовно</br>Ворог: немає"
     },
     "category": "extraction",
     "tag": "free",
-    "position": [-42.06136900078677,22.730133752950422]
+    "position": [-42.06136900078677, 22.730133752950422]
   },
   {
     "name": {
       "en": "James Sullivan",
-      "es": "Extracción en James Sullivan"
+      "es": "James Sullivan",
+      "uk": "Джеймс Салліван"
     },
     "imgSrc": "james sullivan.png",
     "iconName": "extractpaid.svg",
     "description": {
       "en": "Timer: 10 seconds</br>Cost: Cigar</br>Enemy: None",
-      "es": ""
+      "es": "Temporizador: 10 segundos</br>Costo: Cigarro</br>Enemigo: Ninguno",
+      "uk": "Таймер: 10 секунд</br>Вартість: сигарета</br>Ворог: немає"
     },
     "category": "extraction",
     "tag": "paid",
-    "position": [7.647521636506696,37.175452399685284]
+    "position": [7.647521636506696, 37.175452399685284]
   },
-    {
+  {
     "name": {
       "en": "Boatman",
-      "es": "Extracción en Boatman"
+      "es": "Barquero",
+      "uk": "Човняр"
     },
     "imgSrc": "Boatman.png",
     "iconName": "extractpaid.svg",
     "description": {
       "en": "Timer: 10 seconds</br>Cost: 15 Cents</br>Enemy: None",
-      "es": ""
+      "es": "Temporizador: 10 segundos</br>Costo: 15 centavos</br>Enemigo: Ninguno",
+      "uk": "Таймер: 10 секунд</br>Вартість: 15 центів</br>Ворог: Жодного"
     },
     "category": "extraction",
     "tag": "paid",
-    "position": [8.355625491738806,1.9118804091266668]
+    "position": [8.355625491738806, 1.9118804091266668]
   },
   {
     "name": {
       "en": "Old Hut",
-      "es": "Extracción en Boatman"
+      "es": "Cabaña vieja",
+      "uk": "Стара хата"
     },
     "imgSrc": "old hut.png",
     "iconName": "extract.svg",
     "description": {
       "en": "Timer: 60 seconds</br>Cost: Free</br>Enemy: None",
-      "es": ""
+      "es": "Temporizador: 60 segundos</br>Costo: Gratis</br>Enemigo: Ninguno",
+      "uk": "Таймер: 60 секунд</br>Вартість: безкоштовно</br>Ворог: немає"
     },
     "category": "extraction",
     "tag": "free",
-    "position": [8.220472440944675,10.488188976377955]
+    "position": [8.220472440944675, 10.488188976377955]
   },
   {
     "name": {
       "en": "Military Wagon",
-      "es": "Extracción en Military Wagon"
+      "es": "Carro militar",
+      "uk": "військова машина"
     },
     "imgSrc": "Military Wagon.png",
     "iconName": "extractpaid.svg",
     "description": {
       "en": "Timer: 20 seconds</br>Cost: Military Uniform</br>Enemy: Military Patrol",
-      "es": ""
+      "es": "Temporizador: 20 segundos</br>Coste: Uniforme militar</br>Enemigo: Patrulla militar",
+      "uk": "Таймер: 20 секунд</br>Вартість: Військова форма</br>Ворог: Військовий патруль"
     },
     "category": "extraction",
     "tag": "paid",
-    "position": [20.267716535432697,23.38582677165354]
+    "position": [20.267716535432697, 23.38582677165354]
   },
   {
     "name": {
       "en": "Abandoned Horse",
-      "es": "Extracción en Abandoned Horse"
+      "es": "Caballo abandonado",
+      "uk": "покинутий кінь"
     },
     "imgSrc": "abandoned horse.png",
     "iconName": "extract.svg",
     "description": {
       "en": "Timer: 60 seconds</br>Cost: Free</br>Enemy: None",
-      "es": ""
+      "es": "Temporizador: 60 segundos</br>Costo: Gratis</br>Enemigo: Ninguno",
+      "uk": "Таймер: 60 секунд</br>Вартість: безкоштовно</br>Ворог: немає"
     },
     "category": "extraction",
     "tag": "free",
-    "position": [-10.771653543307451,-13.322834645669289]
+    "position": [-10.771653543307451, -13.322834645669289]
   },
   {
     "name": {
       "en": "Small Outcrop",
-      "es": "Extracción en BoatmSmall Outcropan"
+      "es": "Pequeño afloramiento",
+      "uk": "невелике відслонення"
     },
     "imgSrc": "small outcrop.png",
     "iconName": "extract.svg",
     "description": {
       "en": "Timer: 60 seconds</br>Cost: Free</br>Enemy: None",
-      "es": ""
+      "es": "Temporizador: 60 segundos</br>Costo: Gratis</br>Enemigo: Ninguno",
+      "uk": "Таймер: 60 секунд</br>Вартість: безкоштовно</br>Ворог: немає"
     },
     "category": "extraction",
     "tag": "free",
-    "position": [8.503937007873645,-28.346456692913378]
+    "position": [8.503937007873645, -28.346456692913378]
   },
   {
     "name": {
       "en": "Burned House",
-      "es": "Extracción en Burned House"
+      "es": "Casa quemada",
+      "uk": "Спалений будинок"
     },
     "imgSrc": "burnt house.png",
     "iconName": "extract.svg",
@@ -162,7 +181,7 @@
     },
     "category": "extraction",
     "tag": "free",
-    "position": [49.8897637795275,-1.7007874015748001]
+    "position": [49.8897637795275, -1.7007874015748001]
   },
   {
     "name": {
@@ -177,7 +196,7 @@
     },
     "category": "extraction",
     "tag": "free",
-    "position": [26.07874015748004,-48.61417322834646]
+    "position": [26.07874015748004, -48.61417322834646]
   },
   {
     "name": {
@@ -192,7 +211,7 @@
     },
     "category": "extraction",
     "tag": "free",
-    "position": [0.2834645669288278,-49.3228346456693]
+    "position": [0.2834645669288278, -49.3228346456693]
   },
   {
     "name": {
@@ -207,7 +226,7 @@
     },
     "category": "extraction",
     "tag": "free",
-    "position": [-17.29133858267747,-41.81102362204723]
+    "position": [-17.29133858267747, -41.81102362204723]
   },
   {
     "name": {
@@ -222,7 +241,7 @@
     },
     "category": "extraction",
     "tag": "paid",
-    "position": [-52.15748031496078,-51.02362204724409]
+    "position": [-52.15748031496078, -51.02362204724409]
   },
   {
     "name": {
@@ -237,7 +256,7 @@
     },
     "category": "extraction",
     "tag": "free",
-    "position": [-46.0629921259844,-20.97637795275591]
+    "position": [-46.0629921259844, -20.97637795275591]
   },
   {
     "name": {
@@ -252,7 +271,7 @@
     },
     "category": "extraction",
     "tag": "paid",
-    "position": [-60.23622047244109,-27.212598425196845]
+    "position": [-60.23622047244109, -27.212598425196845]
   },
   {
     "name": {
@@ -267,7 +286,7 @@
     },
     "category": "extraction",
     "tag": "free",
-    "position": [-20.267716535433337,26.07874015748032]
+    "position": [-20.267716535433337, 26.07874015748032]
   },
   {
     "name": {
@@ -282,7 +301,7 @@
     },
     "category": "extraction",
     "tag": "free",
-    "position": [-64.48818897637805,48.75590551181102]
+    "position": [-64.48818897637805, 48.75590551181102]
   },
   {
     "name": {
@@ -297,7 +316,7 @@
     },
     "category": "extraction",
     "tag": "free",
-    "position": [-61.37007874015758,23.527559055118118]
+    "position": [-61.37007874015758, 23.527559055118118]
   },
   {
     "name": {
@@ -312,7 +331,7 @@
     },
     "category": "loot",
     "tag": "Cash Register",
-    "position": [-8.214004720692344,11.258851298190393]
+    "position": [-8.214004720692344, 11.258851298190393]
   },
   {
     "name": {
@@ -327,7 +346,7 @@
     },
     "category": "loot",
     "tag": "loot bag",
-    "position": [19.826907946498835,55.727773406766325]
+    "position": [19.826907946498835, 55.727773406766325]
   },
   {
     "name": {
@@ -342,7 +361,7 @@
     },
     "category": "loot",
     "tag": "helmet",
-    "position": [13.078124999999972,-20.812499999999986]
+    "position": [13.078124999999972, -20.812499999999986]
   },
   {
     "name": {
@@ -357,7 +376,7 @@
     },
     "category": "loot",
     "tag": "backpack",
-    "position": [58.515524397137455,29.711429829188944]
+    "position": [58.515524397137455, 29.711429829188944]
   },
   {
     "name": {
@@ -372,7 +391,7 @@
     },
     "category": "loot",
     "tag": "backpack",
-    "position": [-32.76562500000003,-27.210937499999993]
+    "position": [-32.76562500000003, -27.210937499999993]
   },
   {
     "name": {
@@ -387,7 +406,7 @@
     },
     "category": "loot",
     "tag": "backpack",
-    "position": [49.21874999999997,33.890625000000014]
+    "position": [49.21874999999997, 33.890625000000014]
   },
   {
     "name": {
@@ -402,7 +421,7 @@
     },
     "category": "loot",
     "tag": "backpack",
-    "position": [-36.59829001089641,48.29425707694917]
+    "position": [-36.59829001089641, 48.29425707694917]
   },
   {
     "name": {
@@ -417,7 +436,7 @@
     },
     "category": "loot",
     "tag": "backpack",
-    "position": [-40.24595929476898,23.680549425039445]
+    "position": [-40.24595929476898, 23.680549425039445]
   },
   {
     "name": {
@@ -432,9 +451,9 @@
     },
     "category": "animal",
     "tag": "deer",
-    "position": [61.60503540519278,7.718332022029898]
+    "position": [61.60503540519278, 7.718332022029898]
   },
-  
+
   {
     "name": {
       "en": "Deer",
@@ -448,22 +467,7 @@
     },
     "category": "animal",
     "tag": "deer",
-    "position": [-37.67112509834747,-27.12037765538946]
-  },
-  {
-    "name": {
-      "en": "Deer",
-      "es": ""
-    },
-    "imgSrc": "",
-    "iconName": "deer.svg",
-    "description": {
-      "en": "They have Animal Parts",
-      "es": ""
-    },
-    "category": "animal",
-    "tag": "deer",
-    "position": [24.18749999999997,-1.1953124999999858]
+    "position": [-37.67112509834747, -27.12037765538946]
   },
   {
     "name": {
@@ -478,7 +482,22 @@
     },
     "category": "animal",
     "tag": "deer",
-    "position": [53.99999999999997,-21.164062499999986]
+    "position": [24.18749999999997, -1.1953124999999858]
+  },
+  {
+    "name": {
+      "en": "Deer",
+      "es": ""
+    },
+    "imgSrc": "",
+    "iconName": "deer.svg",
+    "description": {
+      "en": "They have Animal Parts",
+      "es": ""
+    },
+    "category": "animal",
+    "tag": "deer",
+    "position": [53.99999999999997, -21.164062499999986]
   },
   {
     "name": {
@@ -493,7 +512,7 @@
     },
     "category": "animal",
     "tag": "boar",
-    "position": [59.06249999999997,60.468750000000014]
+    "position": [59.06249999999997, 60.468750000000014]
   },
   {
     "name": {
@@ -508,7 +527,7 @@
     },
     "category": "animal",
     "tag": "boar",
-    "position": [31.92187499999997,-46.828124999999986]
+    "position": [31.92187499999997, -46.828124999999986]
   },
   {
     "name": {
@@ -523,7 +542,7 @@
     },
     "category": "animal",
     "tag": "boar",
-    "position": [19.40624999999997,-49.640624999999986]
+    "position": [19.40624999999997, -49.640624999999986]
   },
   {
     "name": {
@@ -538,8 +557,8 @@
     },
     "category": "animal",
     "tag": "boar",
-    "position": [-0.5625000000000284,-21.937499999999986]
-  }, 
+    "position": [-0.5625000000000284, -21.937499999999986]
+  },
   {
     "name": {
       "en": "Boar",
@@ -553,7 +572,7 @@
     },
     "category": "animal",
     "tag": "boar",
-    "position": [-43.59375000000003,45.562500000000014]
+    "position": [-43.59375000000003, 45.562500000000014]
   },
   {
     "name": {
@@ -568,7 +587,7 @@
     },
     "category": "animal",
     "tag": "wolf",
-    "position": [51.974822974036215,58.135326514555466]
+    "position": [51.974822974036215, 58.135326514555466]
   },
   {
     "name": {
@@ -583,7 +602,7 @@
     },
     "category": "animal",
     "tag": "wolf",
-    "position": [-30.73170731707316,-44.39811172305272]
+    "position": [-30.73170731707316, -44.39811172305272]
   },
   {
     "name": {
@@ -598,7 +617,7 @@
     },
     "category": "animal",
     "tag": "wolf",
-    "position": [35.121951219512496,60.54287962234461]
+    "position": [35.121951219512496, 60.54287962234461]
   },
   {
     "name": {
@@ -613,7 +632,7 @@
     },
     "category": "poi",
     "tag": "camp",
-    "position": [-44.32730133752929,3.18646734854444]
+    "position": [-44.32730133752929, 3.18646734854444]
   },
   {
     "name": {
@@ -628,7 +647,7 @@
     },
     "category": "poi",
     "tag": "camp",
-    "position": [-2.1093750000000284,34.593750000000014]
+    "position": [-2.1093750000000284, 34.593750000000014]
   },
   {
     "name": {
@@ -643,7 +662,7 @@
     },
     "category": "poi",
     "tag": "camp",
-    "position": [6.890624999999972,21.093750000000014]
+    "position": [6.890624999999972, 21.093750000000014]
   },
   {
     "name": {
@@ -658,7 +677,7 @@
     },
     "category": "poi",
     "tag": "camp",
-    "position": [39.23437499999997,53.578125000000014]
+    "position": [39.23437499999997, 53.578125000000014]
   },
   {
     "name": {
@@ -673,7 +692,7 @@
     },
     "category": "poi",
     "tag": "camp",
-    "position": [58.21874999999997,-23.765624999999986]
+    "position": [58.21874999999997, -23.765624999999986]
   },
   {
     "name": {
@@ -688,7 +707,7 @@
     },
     "category": "poi",
     "tag": "camp",
-    "position": [51.74999999999997,11.390625000000014]
+    "position": [51.74999999999997, 11.390625000000014]
   },
   {
     "name": {
@@ -703,7 +722,7 @@
     },
     "category": "poi",
     "tag": "camp",
-    "position": [46.96874999999997,-24.890624999999986]
+    "position": [46.96874999999997, -24.890624999999986]
   },
   {
     "name": {
@@ -718,7 +737,7 @@
     },
     "category": "poi",
     "tag": "camp",
-    "position": [-28.607395751376856,17.77340676632572]
+    "position": [-28.607395751376856, 17.77340676632572]
   },
   {
     "name": {
@@ -733,7 +752,7 @@
     },
     "category": "poi",
     "tag": "camp",
-    "position": [-35.01562500000003,47.109375000000014]
+    "position": [-35.01562500000003, 47.109375000000014]
   },
   {
     "name": {
@@ -748,7 +767,7 @@
     },
     "category": "poi",
     "tag": "camp",
-    "position": [15.578284815106187,41.84893784421715]
+    "position": [15.578284815106187, 41.84893784421715]
   },
   {
     "name": {
@@ -763,7 +782,7 @@
     },
     "category": "poi",
     "tag": "camp",
-    "position": [-10.918389355869806,-53.91739672706693]
+    "position": [-10.918389355869806, -53.91739672706693]
   },
   {
     "name": {
@@ -778,7 +797,7 @@
     },
     "category": "poi",
     "tag": "camp",
-    "position": [-29.81250000000003,-53.296874999999986]
+    "position": [-29.81250000000003, -53.296874999999986]
   },
   {
     "name": {
@@ -793,7 +812,7 @@
     },
     "category": "poi",
     "tag": "camp",
-    "position": [-7.64752163650644,45.672698662470495]
+    "position": [-7.64752163650644, 45.672698662470495]
   },
   {
     "name": {
@@ -808,7 +827,7 @@
     },
     "category": "poi",
     "tag": "camp",
-    "position": [-12.12344139857803,18.84534210835303]
+    "position": [-12.12344139857803, 18.84534210835303]
   },
   {
     "name": {
@@ -823,7 +842,7 @@
     },
     "category": "poi",
     "tag": "camp",
-    "position": [-16.321199708036303,-1.7463641934489544]
+    "position": [-16.321199708036303, -1.7463641934489544]
   },
   {
     "name": {
@@ -838,7 +857,7 @@
     },
     "category": "poi",
     "tag": "camp",
-    "position": [27.471630223068757,15.271574898949389]
+    "position": [27.471630223068757, 15.271574898949389]
   },
   {
     "name": {
@@ -853,7 +872,7 @@
     },
     "category": "poi",
     "tag": "camp",
-    "position": [-6.514555468135029,59.409913453973246]
+    "position": [-6.514555468135029, 59.409913453973246]
   },
   {
     "name": {
@@ -868,7 +887,7 @@
     },
     "category": "poi",
     "tag": "camp",
-    "position": [67.49999999999997,11.812500000000014]
+    "position": [67.49999999999997, 11.812500000000014]
   },
   {
     "name": {
@@ -883,7 +902,7 @@
     },
     "category": "poi",
     "tag": "camp",
-    "position": [38.24999999999997,2.953125000000014]
+    "position": [38.24999999999997, 2.953125000000014]
   },
   {
     "name": {
@@ -898,7 +917,7 @@
     },
     "category": "poi",
     "tag": "camp",
-    "position": [-24.48270936578234,9.300320844931335]
+    "position": [-24.48270936578234, 9.300320844931335]
   },
   {
     "name": {
@@ -913,7 +932,7 @@
     },
     "category": "poi",
     "tag": "camp",
-    "position": [-20.53125000000003,-27.703124999999986]
+    "position": [-20.53125000000003, -27.703124999999986]
   },
   {
     "name": {
@@ -928,48 +947,9 @@
     },
     "category": "poi",
     "tag": "camp",
-    "position": [24.74999999999997,-30.937499999999986]
+    "position": [24.74999999999997, -30.937499999999986]
   },
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-  
   {
     "name": {
       "en": "Destroyed Bridge Wagon",
@@ -983,7 +963,7 @@
     },
     "category": "poi",
     "tag": "wagon",
-    "position": [3.3749999999999716,2.250000000000014]
+    "position": [3.3749999999999716, 2.250000000000014]
   },
   {
     "name": {
@@ -998,9 +978,8 @@
     },
     "category": "poi",
     "tag": "wagon",
-    "position": [63.70312499999997,26.718750000000014]
+    "position": [63.70312499999997, 26.718750000000014]
   },
-
 
   {
     "name": {
@@ -1015,7 +994,7 @@
     },
     "category": "enemy",
     "tag": "enemy_spawn",
-    "position": [-39.37057435090465,38.166797797010226]
+    "position": [-39.37057435090465, 38.166797797010226]
   },
 
   {
@@ -1031,7 +1010,7 @@
     },
     "category": "enemy",
     "tag": "enemy_spawn",
-    "position": [-10.493154813383793,59.76755004089223]
+    "position": [-10.493154813383793, 59.76755004089223]
   },
 
   {
@@ -1047,7 +1026,7 @@
     },
     "category": "enemy",
     "tag": "enemy_spawn",
-    "position": [-43.37519113311698,3.1867009617140383]
+    "position": [-43.37519113311698, 3.1867009617140383]
   },
   {
     "name": {
@@ -1062,7 +1041,7 @@
     },
     "category": "enemy",
     "tag": "enemy_spawn",
-    "position": [-27.56250000000003,17.859375000000014]
+    "position": [-27.56250000000003, 17.859375000000014]
   },
   {
     "name": {
@@ -1077,7 +1056,7 @@
     },
     "category": "enemy",
     "tag": "enemy_spawn",
-    "position": [-15.609375000000028,-2.390624999999986]
+    "position": [-15.609375000000028, -2.390624999999986]
   },
   {
     "name": {
@@ -1092,7 +1071,7 @@
     },
     "category": "enemy",
     "tag": "enemy_spawn",
-    "position": [60.93616674287358,27.353664262724784]
+    "position": [60.93616674287358, 27.353664262724784]
   },
   {
     "name": {
@@ -1107,7 +1086,7 @@
     },
     "category": "enemy",
     "tag": "enemy_spawn",
-    "position": [4.06371607457524,2.1209423242653855]
+    "position": [4.06371607457524, 2.1209423242653855]
   },
   {
     "name": {
@@ -1122,7 +1101,7 @@
     },
     "category": "enemy",
     "tag": "enemy_spawn",
-    "position": [27.5773526540481,14.491570404229023]
+    "position": [27.5773526540481, 14.491570404229023]
   },
   {
     "name": {
@@ -1137,7 +1116,7 @@
     },
     "category": "enemy",
     "tag": "enemy_spawn",
-    "position": [8.218736193036307,20.62966830650106]
+    "position": [8.218736193036307, 20.62966830650106]
   },
   {
     "name": {
@@ -1152,7 +1131,7 @@
     },
     "category": "enemy",
     "tag": "enemy_spawn",
-    "position": [8.218736193036307,20.62966830650106]
+    "position": [8.218736193036307, 20.62966830650106]
   },
   {
     "name": {
@@ -1167,7 +1146,7 @@
     },
     "category": "enemy",
     "tag": "enemy_spawn",
-    "position": [40.231277560270456,52.35891284747649]
+    "position": [40.231277560270456, 52.35891284747649]
   },
 
   {
@@ -1183,7 +1162,7 @@
     },
     "category": "enemy",
     "tag": "enemy_spawn",
-    "position": [7.4316340392404925,57.14085158722639]
+    "position": [7.4316340392404925, 57.14085158722639]
   },
   {
     "name": {
@@ -1198,7 +1177,7 @@
     },
     "category": "enemy",
     "tag": "enemy_spawn",
-    "position": [16.648801437765513,42.19105568474068]
+    "position": [16.648801437765513, 42.19105568474068]
   },
   {
     "name": {
@@ -1213,7 +1192,7 @@
     },
     "category": "enemy",
     "tag": "enemy_spawn",
-    "position": [26.475258968361857,15.036691112949761]
+    "position": [26.475258968361857, 15.036691112949761]
   },
   {
     "name": {
@@ -1228,7 +1207,7 @@
     },
     "category": "enemy",
     "tag": "enemy_spawn",
-    "position": [7.310291032886372,20.15563917868412]
+    "position": [7.310291032886372, 20.15563917868412]
   },
   {
     "name": {
@@ -1243,7 +1222,7 @@
     },
     "category": "enemy",
     "tag": "enemy_spawn",
-    "position": [56.67187499999997,-22.921874999999986]
+    "position": [56.67187499999997, -22.921874999999986]
   },
   {
     "name": {
@@ -1258,7 +1237,7 @@
     },
     "category": "enemy",
     "tag": "enemy_spawn",
-    "position": [-23.76562500000003,36.703125000000014]
+    "position": [-23.76562500000003, 36.703125000000014]
   },
   {
     "name": {
@@ -1273,7 +1252,7 @@
     },
     "category": "enemy",
     "tag": "enemy_spawn",
-    "position": [-50.62500000000003,-27.281249999999986]
+    "position": [-50.62500000000003, -27.281249999999986]
   },
   {
     "name": {
@@ -1288,7 +1267,7 @@
     },
     "category": "loot",
     "tag": "Event Chest",
-    "position": [-55.778600935140375,-43.05412748019014]
+    "position": [-55.778600935140375, -43.05412748019014]
   },
   {
     "name": {
@@ -1303,7 +1282,7 @@
     },
     "category": "loot",
     "tag": "Event Chest",
-    "position": [40.66473641363601,32.80384149615526]
+    "position": [40.66473641363601, 32.80384149615526]
   },
   {
     "name": {
@@ -1318,7 +1297,7 @@
     },
     "category": "loot",
     "tag": "Event Chest",
-    "position": [30.539736413636007,62.475716496155236]
+    "position": [30.539736413636007, 62.475716496155236]
   },
   {
     "name": {
@@ -1333,7 +1312,7 @@
     },
     "category": "loot",
     "tag": "Event Chest",
-    "position": [-40.28196164054633,-2.1270441958380104]
+    "position": [-40.28196164054633, -2.1270441958380104]
   },
   {
     "name": {
@@ -1348,7 +1327,7 @@
     },
     "category": "loot",
     "tag": "Event Chest",
-    "position": [38.97723641363601,-38.352408503844686]
+    "position": [38.97723641363601, -38.352408503844686]
   },
   {
     "name": {
@@ -1363,7 +1342,7 @@
     },
     "category": "loot",
     "tag": "Event Chest",
-    "position": [0.5987199853633456,-5.124163055343768]
+    "position": [0.5987199853633456, -5.124163055343768]
   },
   {
     "name": {
@@ -1378,7 +1357,7 @@
     },
     "category": "loot",
     "tag": "loot bag",
-    "position": [-55.26562500000003,46.265625000000014]
+    "position": [-55.26562500000003, 46.265625000000014]
   },
   {
     "name": {
@@ -1393,9 +1372,8 @@
     },
     "category": "loot",
     "tag": "loot bag",
-    "position": [-57.937500000000036,-0.5624999999999929]
-  }
-  ,
+    "position": [-57.937500000000036, -0.5624999999999929]
+  },
   {
     "name": {
       "en": "River Loot Bag",
@@ -1409,6 +1387,6 @@
     },
     "category": "loot",
     "tag": "loot bag",
-    "position": [-49.07812500000003,-39.796874999999986]
+    "position": [-49.07812500000003, -39.796874999999986]
   }
 ]
