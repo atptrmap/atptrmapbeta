@@ -94,7 +94,7 @@
             "en": "Boatman",
             "es": "Extracción en Boatman"
         },
-        "imgSrc": "Boatman.png",
+        "imgSrc": "boatman.png",
         "iconName": "extractpaid.svg",
         "description": {
             "en": "Timer: 10 seconds</br>Cost: 15 Cents</br>Enemy: None",
@@ -130,7 +130,7 @@
             "en": "Military Wagon",
             "es": "Extracción en Military Wagon"
         },
-        "imgSrc": "Military Wagon.png",
+        "imgSrc": "military wagon.png",
         "iconName": "extractpaid.svg",
         "description": {
             "en": "Timer: 20 seconds</br>Cost: Military Uniform</br>Enemy: Military Patrol",
@@ -238,7 +238,7 @@
             "en": "Boat",
             "es": "Extracción en Boat"
         },
-        "imgSrc": "Boat.png",
+        "imgSrc": "boat.png",
         "iconName": "extract.svg",
         "description": {
             "en": "Timer: 20 seconds</br>Cost: Free</br>Enemy: Indian Patrol",
@@ -274,7 +274,7 @@
             "en": "Forgotten Boviac",
             "es": "Extracción en Forgotten Boviac"
         },
-        "imgSrc": "Forgotten.png",
+        "imgSrc": "forgotten.png",
         "iconName": "extract.svg",
         "description": {
             "en": "Timer: 60 seconds</br>Cost: Free</br>Enemy: None",
@@ -292,7 +292,7 @@
             "en": "Conductor",
             "es": "Extracción en Conductor"
         },
-        "imgSrc": "Conductor.png",
+        "imgSrc": "conductor.png",
         "iconName": "extractpaid.svg",
         "description": {
             "en": "Timer: 10 seconds</br>Cost: 10 Cents</br>Enemy: None",
@@ -346,7 +346,7 @@
             "en": "Southern Ravine",
             "es": "Extracción en Southern Ravine"
         },
-        "imgSrc": "Southern-ravine.png",
+        "imgSrc": "southern-ravine.png",
         "iconName": "extract.svg",
         "description": {
             "en": "Timer: 20 seconds</br>Cost: Free</br>Enemy: None",
