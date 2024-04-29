@@ -1,5 +1,4 @@
 [
-    
     {
         "name": {
             "en": "Cash Register",
@@ -368,7 +367,7 @@
         "imgSrc": "deadshot2.png",
         "iconName": "enemy_spawn.svg",
         "description": {
-            "en": "Can be found in one of three bushes</br>Loot: Poweder Measure Tool, Gun parts, Money",
+            "en": "Can be found in one of three bushes</br>Loot: Powder Measure Tool, Gun parts, Money",
             "es": ""
         },
         "category": "enemy",
@@ -941,7 +940,7 @@
             "en": "Boatman",
             "es": "Extracción en Boatman"
         },
-        "imgSrc": "Boatman.png",
+        "imgSrc": "boatman.png",
         "iconName": "extractpaid.svg",
         "description": {
             "en": "Timer: 10 seconds</br>Cost: 15 Cents</br>Enemy: None",
@@ -977,7 +976,7 @@
             "en": "Military Wagon",
             "es": "Extracción en Military Wagon"
         },
-        "imgSrc": "Military Wagon.png",
+        "imgSrc": "military Wagon.png",
         "iconName": "extractpaid.svg",
         "description": {
             "en": "Timer: 20 seconds</br>Cost: Military Uniform</br>Enemy: Military Patrol",
@@ -1085,7 +1084,7 @@
             "en": "Boat",
             "es": "Extracción en Boat"
         },
-        "imgSrc": "Boat.png",
+        "imgSrc": "boat.png",
         "iconName": "extract.svg",
         "description": {
             "en": "Timer: 20 seconds</br>Cost: Free</br>Enemy: Indian Patrol",
@@ -1121,7 +1120,7 @@
             "en": "Forgotten Boviac",
             "es": "Extracción en Forgotten Boviac"
         },
-        "imgSrc": "Forgotten.png",
+        "imgSrc": "forgotten.png",
         "iconName": "extract.svg",
         "description": {
             "en": "Timer: 60 seconds</br>Cost: Free</br>Enemy: None",
@@ -1139,7 +1138,7 @@
             "en": "Conductor",
             "es": "Extracción en Conductor"
         },
-        "imgSrc": "Conductor.png",
+        "imgSrc": "conductor.png",
         "iconName": "extractpaid.svg",
         "description": {
             "en": "Timer: 10 seconds</br>Cost: 10 Cents</br>Enemy: None",
@@ -1193,7 +1192,7 @@
             "en": "Southern Ravine",
             "es": "Extracción en Southern Ravine"
         },
-        "imgSrc": "Southern-ravine.png",
+        "imgSrc": "southern-ravine.png",
         "iconName": "extract.svg",
         "description": {
             "en": "Timer: 20 seconds</br>Cost: Free</br>Enemy: None",
@@ -1249,7 +1248,7 @@
             "en": "Illay's Farm",
             "es": ""
         },
-        "imgSrc": "",
+        "imgSrc": "farm.png",
         "iconName": "poi.svg",
         "description": {
             "en": "Loot: Sewing Machine, Can Sealer, Event Shovel Key Needed: Illay's Key",
@@ -1554,14 +1553,14 @@
             "en": "Bob Ross",
             "es": ""
         },
-        "imgSrc": "bob ross.png",
-        "iconName": "poi.svg",
+        "imgSrc": "bob.png",
+        "iconName": "bob.svg",
         "description": {
             "en": "Loot: Gun, Barter Items",
             "es": ""
         },
-        "category": "poi",
-        "tag": "camp",
+        "category": "loot",
+        "tag": "bob ross",
         "position": [
             38.24999999999997,
             2.953125000000014
@@ -1657,8 +1656,4 @@
             26.718750000000014
         ]
     }
-
-
-
-
 ]
