@@ -1443,7 +1443,7 @@
             "en": "Rattan",
             "es": ""
         },
-        "imgSrc": "rattan2.png",
+        "imgSrc": "rattan.png",
         "iconName": "enemy_spawn.svg",
         "description": {
             "en": "Loot: Percision Tool Kit, Silienced .38, .44, .45",
