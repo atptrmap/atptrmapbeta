@@ -133,11 +133,11 @@
         "imgSrc": "military wagon.png",
         "iconName": "extractpaid.svg",
         "description": {
-            "en": "Timer: 20 seconds</br>Cost: Military Uniform</br>Enemy: Military Patrol",
+            "en": "Timer: 20 seconds</br>Cost: Disguesed as Military</br>Enemy: Military Patrol",
             "es": ""
         },
         "category": "extraction",
-        "tag": "paid",
+        "tag": "free",
         "position": [
             20.267716535432697,
             23.38582677165354
