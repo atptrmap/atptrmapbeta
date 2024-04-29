@@ -361,7 +361,7 @@
     "iconName": "enemy_spawn.svg",
     "description": {
       "en": "Can be found in the rafters in the back of the mine</br>Key Needed: Drawer Key",
-      "es": "Se puede encontrar en los altillos al fondo de la mina</br>Clave necesaria: Llave del cajón",
+      "es": "Se puede encontrar en los altillos al fondo de la mina</br>Llave necesaria: Llave del cajón",
       "uk": "Можна знайти на стропилах у задній частині шахти</br>Ключ потрібно: Ключ до ящика"
     },
     "category": "enemy",
