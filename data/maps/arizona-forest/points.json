@@ -787,8 +787,8 @@
     "iconName": "extract.svg",
     "description": {
       "en": "Timer: 10 seconds</br>Cost: Wagon Wheel</br>Enemy: Anny's Outlaws",
-      "es": "Temporizador: 60 segundos</br>Coste: Gratis</br>Enemigo: Ninguno",
-      "uk": "Таймер: 60 секунд</br>Вартість: Безкоштовно</br>Ворог: Немає"
+      "es": "Temporizador: 60 segundos</br>Coste: Rueda de Carreta</br>Enemigo: Ninguno",
+      "uk": "Таймер: 60 секунд</br>Вартість: Колесо візка</br>Ворог: Немає"
     },
     "category": "extraction",
     "tag": "paid",
