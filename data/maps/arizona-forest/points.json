@@ -14,7 +14,7 @@
     },
     "category": "loot",
     "tag": "Cash Register",
-    "position": [-8.214004720692344, 11.258851298190393]
+    "position": [-5.519284713143776, 9.508982488798296]
   },
   {
     "name": {
@@ -60,7 +60,7 @@
     },
     "category": "loot",
     "tag": "backpack",
-    "position": [58.515524397137455, 29.711429829188944]
+    "position": [57.88754273778726, 28.16990512412094]
   },
   {
     "name": {
@@ -94,7 +94,8 @@
     },
     "category": "loot",
     "tag": "backpack",
-    "position": [49.21874999999997, 33.890625000000014]
+    "position": [50.18204065118766,32.923608026976765
+  ]
   },
   {
     "name": {
@@ -179,7 +180,7 @@
     },
     "category": "animal",
     "tag": "deer",
-    "position": [24.18749999999997, -1.1953124999999858]
+    "position": [24.227905764705937,-3.886154204482601]
   },
   {
     "name": {
@@ -217,7 +218,7 @@
   },
   {
     "name": {
-      "en": "Boar",
+      "en": "Boar - Plains",
       "es": "Jabalí",
       "uk": "Кабан"
     },
@@ -230,7 +231,7 @@
     },
     "category": "animal",
     "tag": "boar",
-    "position": [31.92187499999997, -46.828124999999986]
+    "position": [29.155050395027764,-44.99090049184678]
   },
   {
     "name": {
@@ -349,7 +350,7 @@
     },
     "category": "enemy",
     "tag": "enemy_spawn",
-    "position": [-39.37057435090465, 38.166797797010226]
+    "position": [-39.39530024422814,36.98032159524531]
   },
   {
     "name": {
@@ -438,7 +439,7 @@
   },
   {
     "name": {
-      "en": "Black coat",
+      "en": "Black coat - Destroyed Bridge",
       "es": "Abrigo negro",
       "uk": "Чорне пальто"
     },
@@ -451,7 +452,7 @@
     },
     "category": "enemy",
     "tag": "enemy_spawn",
-    "position": [4.06371607457524, 2.1209423242653855]
+    "position": [3.2061938389446496,2.142144494299597]
   },
   {
     "name": {
@@ -650,7 +651,7 @@
     "iconName": "event chest.svg",
     "category": "loot",
     "tag": "Event Chest",
-    "position": [-55.778600935140375, -43.05412748019014]
+    "position": [-51.998776294543084,-43.484863264032896]
   },
   {
     "name": {
@@ -686,7 +687,7 @@
     "iconName": "event chest.svg",
     "category": "loot",
     "tag": "Event Chest",
-    "position": [-40.28196164054633, -2.1270441958380104]
+    "position": [-37.963023055215274,-7.680058408892858]
   },
   {
     "name": {
@@ -710,7 +711,7 @@
     "iconName": "event chest.svg",
     "category": "loot",
     "tag": "Event Chest",
-    "position": [0.5987199853633456, -5.124163055343768]
+    "position": [-1.622637366673274,-11.5888291160488]
   },
   {
     "name": {
@@ -782,7 +783,7 @@
     "iconName": "grave.svg",
     "category": "loot",
     "tag": "grave",
-    "position": [30.30709797216177,-44.70967508796382]
+    "position": [33.961798239877034,-44.8744818823224]
   },
   {
     "name": {
@@ -790,7 +791,7 @@
       "es": "Túnel",
       "uk": "Тунель"
     },
-    "imgSrc": "",
+    "imgSrc": "tunnel.png",
     "iconName": "extract.svg",
     "description": {
       "en": "Timer: 10 seconds</br>Cost: Lantern</br>Enemy: None",
@@ -799,7 +800,7 @@
     },
     "category": "extraction",
     "tag": "paid",
-    "position": [-3.288485330315588,63.38703199955551]
+    "position": [-7.373461947146275,62.44873726070415]
   },
   {
     "name": {
@@ -867,7 +868,7 @@
     },
     "category": "extraction",
     "tag": "free",
-    "position": [52.5625, 37.8125]
+    "position": [52.789865767567356,39.1187752272008]
   },
   {
     "name": {
@@ -884,7 +885,7 @@
     },
     "category": "extraction",
     "tag": "paid",
-    "position": [-21.70708717713272, 52.03466375465125]
+    "position": [-28.186694044682753,51.10844895727016]
   },
   {
     "name": {
@@ -1088,7 +1089,7 @@
     },
     "category": "extraction",
     "tag": "paid",
-    "position": [-52.15748031496078, -51.02362204724409]
+    "position": [-38.82264001394336,-58.55088453974248]
   },
   {
     "name": {
@@ -1143,9 +1144,9 @@
   },
   {
     "name": {
-      "en": "Northern Ravine",
-      "es": "Barranco del Norte",
-      "uk": "Північний яр"
+      "en": "Wagon",
+      "es": "vagón",
+      "uk": "вагон"
     },
     "imgSrc": "wagon.png",
     "iconName": "extract.svg",
@@ -1577,7 +1578,7 @@
     },
     "category": "poi",
     "tag": "wagon",
-    "position": [3.3749999999999716, 2.250000000000014]
+    "position": [-0.6913821765816124,-3.7396782281333003]
   },
   {
     "name": {
