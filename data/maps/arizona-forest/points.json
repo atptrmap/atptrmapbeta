@@ -300,6 +300,23 @@
     "tag": "wolf",
     "position": [51.974822974036215, 58.135326514555466]
   },
+{
+    "name": {
+      "en": "Wolf",
+      "es": "Lobo",
+      "uk": "Вовк"
+    },
+    "imgSrc": "",
+    "iconName": "wolf.svg",
+    "description": {
+      "en": "Pelt, bones, meat, heart, animal fat",
+      "es": "Piel, huesos, carne, corazón, grasa animal",
+      "uk": "шкура, кістки, м'ясо, серце, тваринний жир"
+    },
+    "category": "animal",
+    "tag": "wolf",
+    "position": [-45.778054217281664,-39.91581440972348]
+  },
   {
     "name": {
       "en": "Wolf",
