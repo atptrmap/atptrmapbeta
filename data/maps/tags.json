@@ -203,7 +203,7 @@
         },
         "color": "#d43c3c",
         "children": [
-{
+            {
                 "id": "enemy_spawn",
                 "iconName": "enemy_spawn.svg",
                 "name": {
@@ -212,18 +212,7 @@
                     "ua": "Босс"
 
                 }
-            },
-            {
-                "id": "widow",
-                "iconName": "enemy_spawn.svg",
-                "name": {
-                    "en": "widow",
-                    "es": "viuda",
-                    "ua": "vdova"
-                }
-            },  
-        "color": "#996666",
-                 
+            },                 
        ]
     }
 ]
