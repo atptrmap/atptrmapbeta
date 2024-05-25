@@ -203,6 +203,14 @@
         },
         "color": "#d43c3c",
         "children": [
+{
+                "id": "enemy_spawn",
+                "iconName": "enemy_spawn.svg",
+                "name": {
+                    "en": "Boss",
+                    "es": "Jefe",
+                    "ua": "Босс"
+
                 }
             },
             {
