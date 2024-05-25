@@ -623,6 +623,40 @@
     "tag": "enemy_spawn",
     "position": [56.67187499999997, -22.921874999999986]
   },
+{
+    "name": {
+      "en": "Widows",
+      "es": "Widows",
+      "ua": "Widows (Вдови)"
+    },
+    "imgSrc": "widow2.png",
+    "iconName": "enemy_spawn.svg",
+    "description": {
+      "en": "Loot: Gun Parts, Special Hats",
+      "es": "Botín: Piezas de armas, Sombreros especiales",
+      "ua": "Здобич: Деталі до зброї, Спеціальні шапки"
+    },
+    "category": "enemy",
+    "tag": "enemy_spawn",
+    "position": [ -50.86843632140684,19.306838389616473]
+  },
+{
+    "name": {
+      "en": "Widows",
+      "es": "Widows",
+      "ua": "Widows (Вдови)"
+    },
+    "imgSrc": "widow2.png",
+    "iconName": "enemy_spawn.svg",
+    "description": {
+      "en": "Loot: Gun Parts, Special Hats",
+      "es": "Botín: Piezas de armas, Sombreros especiales",
+      "ua": "Здобич: Деталі до зброї, Спеціальні шапки"
+    },
+    "category": "enemy",
+    "tag": "enemy_spawn",
+    "position": [-43.164481419585044,54.700370329870225]
+  },
   {
     "name": {
       "en": "Widows",
@@ -639,6 +673,23 @@
     "category": "enemy",
     "tag": "enemy_spawn",
     "position": [-23.76562500000003, 36.703125000000014]
+  },
+{
+    "name": {
+      "en": "Widows",
+      "es": "Widows",
+      "ua": "Widows (Вдови)"
+    },
+    "imgSrc": "widow2.png",
+    "iconName": "enemy_spawn.svg",
+    "description": {
+      "en": "Loot: Gun Parts, Special Hats",
+      "es": "Botín: Piezas de armas, Sombreros especiales",
+      "ua": "Здобич: Деталі до зброї, Спеціальні шапки"
+    },
+    "category": "enemy",
+    "tag": "enemy_spawn",
+    "position": [-32.55758698954055,17.632065584872606]
   },
   {
     "name": {
